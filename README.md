@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Danilo Claudino 👋
 
-- 💻 Estagiário na Superintendência Regional de Ensino com **9 meses de experiência**
-- 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional em Uberlândia **5° Semestre**
+- 💻 Estagiário de TI com **9 meses de experiência**
+- 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional **5° Semestre**
 - 👨‍💻 Estudando para me aprimorar como desenvolvedor **Junior DevOps**
 
 <div align="center">
