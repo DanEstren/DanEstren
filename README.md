@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo Claudino 👋
 
-- 💻 Estagiário de TI com **9 meses de experiência**
+- 💻 Estagiário de TI com **mais de um ano de experiência**
 - 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional **5° Semestre**
 - 👨‍💻 Estudando para me aprimorar como desenvolvedor **Junior DevOps**
 
