@@ -3,6 +3,7 @@
 - 💻 Estagiário de TI com **mais de um ano de experiência**
 - 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional **5° Semestre**
 - 👨‍💻 Estudando para me aprimorar como desenvolvedor **Junior DevOps**
+- 👀 Experiências com Projetos de Visão Computacional, OpenCV, Yolo, Paddle, OCR's ✍️
 
 <div align="center">
   <a href="https://github.com/DanEstren">
