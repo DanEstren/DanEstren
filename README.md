@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Danilo Claudino 👋
 
-- 💻 Estagiário de TI Programador com **mais de dois anos de experiência**
-- 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional **6° Semestre**
-- 👀 Experiências com Projetos de Visão Computacional, OpenCV, Yolo, Paddle, OCR's ✍️
-- 👨‍💻 Sempre estudando pra me aprimorar como desenvolvedor
+- 💻 Programador Junior **um ano de experiência**
+- 🎓 Faculdade de Sistemas de Informação na Anhanguera Educacional **7° Semestre**
+- 👀 Experiências com Projetos de Visão Computacional Python, OpenCV, Yolo, Paddle, OCR's ✍️
+- ✍️ Básico em Front-End, HTML, JavaScript, CSS
+- 🏦 Banco de Dados e Consultas PostgreSQL, SQL, OracleDB
+- 👨‍💻 Sempre estudando e me capacitando a fim de me aprimorar como desenvolvedor
 
 <!-- <div align="center">
   <a href="https://github.com/DanEstren">
